@@ -1,3 +1,12 @@
 # Critical Mass Project
 
-1) I used Live server plugin on VSCode, due to Json file.
+Hi, this is a take-home project for Critical mass. As per the instructions, video and JSON file,  I have created a navigation bar, using vanilla js/html/css. 
+
+Some points to note : 
+1) Used Live server plugin on VSCode, due to local Json file.
+
+2) Have added another key, timeZone, to the JSON file provided, to calculate time for the respective cities. As an alternative, can use google apis to get the same.
+
+3) There was no instruction regarding responsiveness, so have kept it similar to the video. Design will have to change for smaller screens.
+
+
