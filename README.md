@@ -2,6 +2,8 @@
 
 Hi, this is a take-home project for Critical mass. As per the instructions, video and JSON file,  I have created a navigation bar, using vanilla js/html/css. 
 
+Link for live site : https://rajhanspol.github.io/Critical-Mass-Takehome-Project/
+
 Some points to note : 
 1) Used Live server plugin on VSCode, due to local Json file.
 
